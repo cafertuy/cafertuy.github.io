@@ -1,4 +1,0 @@
-{
-  "applo_sdkiid": "iIGZ7gnWKj6GIWyV6GHydeG90LPWBuAI7MIUtC71l4A=",
-  "applo_sdkisonid": "53uxEeMC1+DX9QvMfN3EBu7OSCyJPYg+HAHsHbvwCRo="
-}
